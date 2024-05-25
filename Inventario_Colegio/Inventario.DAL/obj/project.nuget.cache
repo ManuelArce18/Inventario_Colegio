@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqfqhEUqGGM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manue\\Downloads\\Juegos\\Inventario_Colegio\\Inventario.DAL\\Inventario.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

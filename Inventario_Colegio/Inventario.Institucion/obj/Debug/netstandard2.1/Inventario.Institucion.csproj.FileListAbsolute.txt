@@ -1,0 +1,5 @@
+C:\Users\manue\Downloads\Juegos\Inventario_Colegio\Inventario.Institucion\obj\Debug\netstandard2.1\Inventario.Institucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Downloads\Juegos\Inventario_Colegio\Inventario.Institucion\obj\Debug\netstandard2.1\Inventario.Institucion.AssemblyInfoInputs.cache
+C:\Users\manue\Downloads\Juegos\Inventario_Colegio\Inventario.Institucion\obj\Debug\netstandard2.1\Inventario.Institucion.AssemblyInfo.cs
+C:\Users\manue\Downloads\Juegos\Inventario_Colegio\Inventario.Institucion\obj\Debug\netstandard2.1\Inventario.Institucion.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\Juegos\Inventario_Colegio\Inventario.Institucion\obj\Debug\netstandard2.1\Inventario.Institucion.sourcelink.json
